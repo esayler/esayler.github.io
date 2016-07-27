@@ -18,3 +18,4 @@ github_username:  esayler
 
 # Build settings
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
